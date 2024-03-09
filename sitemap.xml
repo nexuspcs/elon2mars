@@ -1,79 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://elon2mars.com/Home-~-E2M.html</loc>
-        <lastmod>2024-03-09T22:13:38+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/index.html</loc>
-        <lastmod>2024-03-09T22:13:38+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/Whitepaper-~-E2M.html</loc>
-        <lastmod>2024-03-09T22:14:39+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/Contact-~-E2M.html</loc>
-        <lastmod>2024-03-09T22:17:22+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post-1.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post-2.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post-3.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post-4.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/post-5.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/blog/blog.html</loc>
-        <lastmod>2024-03-09T22:17:28+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/leather-gloves.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/flip-flops.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/girl-skirt.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/men-s-t-shirt.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/summer-hat.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/women-s-shoes.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/products/products.html</loc>
-        <lastmod>2024-03-09T22:17:28+11:00</lastmod>
-    </url>
-    <url>
-        <loc>https://elon2mars.com/thank-you-page.html</loc>
-        <lastmod>2024-03-09T11:09:09+11:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://elon2mars.com/</loc>
+  <lastmod>2024-03-09T11:24:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://elon2mars.com/Home-~-E2M.html</loc>
+  <lastmod>2024-03-09T11:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://elon2mars.com/Whitepaper-~-E2M.html</loc>
+  <lastmod>2024-03-09T11:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://elon2mars.com/Contact-~-E2M.html</loc>
+  <lastmod>2024-03-09T11:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
